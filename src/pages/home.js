@@ -10,6 +10,11 @@ const Home = ({ imageDetails, image }) => (
     <main>
       <div className='container'>
         <div className='row center'>
+          <div className="site-description">
+            <p>Persona Bee is a collection of free-to-use, fully AI generated personas that can be used in your research. </p>
+            <br />
+            <p>Personas are reliable, realistic representations of your key audience for UI/UX research, Human-Computer Interaction research, and Usable Privacy and Security research. Given the purpose of a site or product, a good persona defines a user's personal, professional, and technical life, as well as their motivations. Each Persona Bee persona comes with all of the above.  </p>
+          </div>
           <div className='image-container'>
             <div
               className='thumbnail'

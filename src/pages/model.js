@@ -121,10 +121,10 @@ const Model = ({imageDetails}) => {
                 <div className='frame-single'>
                   <motion.img 
                     style={{ scale: scale }}
-                    initial={{scale: 1.1}} 
+                    initial={{ scale: 1.1 }} 
                     animate={{
                       transition: {delay: 0.2, ...transition},
-                      y: window.innerWidth > 1440 ? -1000 : -600,
+                      y: window.innerWidth > 1440 ? -500 : -600,
                     }}
                     src={require("../images/persona_1.webp")} 
                     alt='model' 

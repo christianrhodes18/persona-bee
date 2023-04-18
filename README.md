@@ -27,6 +27,10 @@
 <h3 align="center">Persona Bee - Make Believe Personas for your Research</h3>
 
   <p align="center">
+    Persona Bee is a collection of free-to-use, fully AI generated personas that can be used in your research. Personas are reliable, realistic representations of your key audience for UI/UX research, Human-Computer Interaction research, and Usable Privacy and Security research. Given the purpose of a site or product, a good persona defines a user's personal, professional, and technical life, as well as their motivations. Each Persona Bee persona comes with all of the above. 
+
+
+    **Background**
     I took some human-computer interaction classes in college and we had to create user personas, scenarios, flows, etc. for research prototypes. I wanted to use AI to auotomatically generate these personas, and present them in an elegant way. I hope this project acts as a easy-to-use and pleasant way to access and use pre-made personas. All persons are generated with GPT-4 and Midjourney. As of 2023, their policies allow full usage rights. Please use the personas as you need. Feel free to credit this site or me: 
     **Persona from [#insert live link](Persona Bee)**
     <br />
