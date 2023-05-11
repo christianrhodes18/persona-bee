@@ -126,7 +126,7 @@ const Model = ({imageDetails}) => {
                       transition: {delay: 0.2, ...transition},
                       y: window.innerWidth > 1440 ? -500 : -600,
                     }}
-                    src={require("../images/persona_1.webp")} 
+                    src={require("../images/persona_1.png")} /* originally webp */
                     alt='model' 
                   />
                 </div>
